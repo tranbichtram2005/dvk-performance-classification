@@ -66,7 +66,3 @@ Evaluation metrics include:
 - ROC Curve and AUC, where applicable
 
 Feature importance and prediction probability distributions are also examined to support model interpretation.
-
-```
-
-*The structure above is a suggested organization. Adjust it to match the files actually committed to the repository.*
